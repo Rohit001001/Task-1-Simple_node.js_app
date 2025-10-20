@@ -51,3 +51,4 @@ docker-compose up --build
 3. **Access the application**
 
 Once the containers are up, you can access the app at: [http://localhost:3000](http://localhost:3000)# Sample Node Project
+# Sample Node Project
